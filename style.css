@@ -1,0 +1,11 @@
+/*Haley patel 8869834*/
+body{
+    font : normal normal normal 12px/1.5 verdana, Ariel, Helvetica, sans-serif;
+    height : 100vh;
+    width : 100v;
+    background-color: hsla(200,45%, 81%,0.7);
+}
+h2{
+    font-size: 2rem;
+    color: #fc9;
+}
